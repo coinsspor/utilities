@@ -4,6 +4,11 @@
 # Set color to blue
 echo -e "\033[0;34m"
 echo "░n░o░d░e░s░c░e░n░t░e░r░.░c░o░i░n░s░s░p░o░r░.░c░o░m░ "
+echo "░n░o░d░e░s░c░e░n░t░e░r░.░c░o░i░n░s░s░p░o░r░.░c░o░m░ "
+echo "░n░o░d░e░s░c░e░n░t░e░r░.░c░o░i░n░s░s░p░o░r░.░c░o░m░ "
+echo "░n░o░d░e░s░c░e░n░t░e░r░.░c░o░i░n░s░s░p░o░r░.░c░o░m░ "
+echo "░n░o░d░e░s░c░e░n░t░e░r░.░c░o░i░n░s░s░p░o░r░.░c░o░m░ "
+echo "░n░o░d░e░s░c░e░n░t░e░r░.░c░o░i░n░s░s░p░o░r░.░c░o░m░ "
 
 
 # Set color to green
