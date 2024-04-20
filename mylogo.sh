@@ -1,6 +1,7 @@
 #!/bin/bash
 
-
+# Set color to red
+echo -e "\e[1m\e[1;31m"
 
 echo " 𝐔𝐧𝐥𝐨𝐜𝐤 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧: 𝐉𝐨𝐢𝐧 𝐭𝐡𝐞 𝐂𝐨𝐢𝐧𝐬𝐬𝐩𝐨𝐫 𝐍𝐨𝐝𝐞 𝐂𝐞𝐧𝐭𝐞𝐫 𝐓𝐨𝐝𝐚𝐲!"
 # Set color to blue
