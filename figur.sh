@@ -36,6 +36,3 @@ function addToPath {
 # Call functions to produce output
 printLogo
 printLine
-printGreen "This is a green text."
-printRed "This is a red text."
-printBlue "This is a blue text."
