@@ -1,3 +1,5 @@
+#!/bin/bash
+
 GREEN="\e[1m\e[1;32m" # green color
 RED="\e[1m\e[1;31m" # red color
 BLUE='\033[0;34m'   # blue color
@@ -31,3 +33,9 @@ function addToPath {
   fi
 }
 
+# Call functions to produce output
+printLogo
+printLine
+printGreen "This is a green text."
+printRed "This is a red text."
+printBlue "This is a blue text."
