@@ -28,4 +28,6 @@ function addToPath {
   PATH_EXIST=$(grep "${1}" $HOME/.bash_profile)
   if [ -z "$PATH_EXIST" ]; then
     echo "export PATH=\$PATH:${1}" >> $HOME/.bash_profile
+  fi
 }
+
